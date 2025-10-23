@@ -1,22 +1,23 @@
-biocircuits==0.1.11
-biopython==1.79
-cobra==0.29.0
+silvio==0.3.1
+ipykernel
+wget==3.2
+# biocircuits==0.1.11
+# biopython==1.79
+# cobra==0.29.0
 #idna==3.3
 #Jinja2==3.0.3
 #joblib==1.4.2
-matplotlib==3.5.1
-numpy==1.23.5
-openpyxl==3.1.0
+# matplotlib==3.7.0 #3.5.1
+# numpy==1.24.4 # 1.23.5
+# openpyxl==3.1.0
 # pandas==2.2.2
 #pydna==5.2.0
 #recordclass==0.17.2
-setuptools
-scikit-learn==1.2.2
-scipy==1.9.3
-silvio==0.2.11
-plotly==6.0.0
-nbformat==5.10.4
+# setuptools
+# scikit-learn==1.2.2
+# scipy==1.10.0 # 1.9.3
+# plotly==6.0.0
+# nbformat==5.10.4
 #sklearn==0.0
 #watermark==2.3.0
-wget==3.2
 #xlrd==2.0.1

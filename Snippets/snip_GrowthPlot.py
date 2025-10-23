@@ -4,4 +4,4 @@ Time, Biomass = my_data[:,0], my_data[:,1:]
 LnBiomass = np.log(Biomass)
 [plt.scatter(Time, X, label=Exp) for Exp,X in enumerate(LnBiomass.T)]
 plt.legend()
-# %load Snippets/rev_GrowthPlot.py 
+# %load ../Snippets/rev_GrowthPlot.py 
